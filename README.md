@@ -1,15 +1,3 @@
-Folder structure:
-main
-   + CMakeLists.txt
-   + Kconfig.projbuild
-   + mqtt_gsm_main.c
-   + root_certificates.h
-CMakeLists.txt
-README.md
-sdkconfig
-sdkconfig.defaults
-sdkconfig.old
-
 
 # Blynk MQTT client for ESP-IDF (Cellular only)
 
@@ -93,5 +81,4 @@ I (39460) [MQTTS]: MQTT_EVENT_PUBLISHED, msg_id=23955
 - [Blynk MQTT API documentation](https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api)
 - [Blynk Troubleshooting guide](https://docs.blynk.io/en/troubleshooting/general-issues)
 - [Blynk Documentation](https://docs.blynk.io/en)
-
 
